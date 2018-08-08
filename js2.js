@@ -1,20 +1,20 @@
 /*
  * The Typekit service used to deliver this font or fonts for use on websites
  * is provided by Adobe and is subject to these Terms of Use
- * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * https://www.adobe.com/products/eulas/tou_typekit. For font license
  * information, see the list below.
  *
  * tablet-gothic:
- *   - http://typekit.com/eulas/000000000000000000014353
- *   - http://typekit.com/eulas/000000000000000000014359
- *   - http://typekit.com/eulas/000000000000000000014355
- *   - http://typekit.com/eulas/00000000000000000001435d
- *   - http://typekit.com/eulas/000000000000000000014354
+ *   - https://typekit.com/eulas/000000000000000000014353
+ *   - https://typekit.com/eulas/000000000000000000014359
+ *   - https://typekit.com/eulas/000000000000000000014355
+ *   - https://typekit.com/eulas/00000000000000000001435d
+ *   - https://typekit.com/eulas/000000000000000000014354
  * tablet-gothic-semi-condensed:
- *   - http://typekit.com/eulas/000000000000000000014387
- *   - http://typekit.com/eulas/00000000000000000001437f
- *   - http://typekit.com/eulas/000000000000000000014383
- *   - http://typekit.com/eulas/00000000000000000001437d
+ *   - https://typekit.com/eulas/000000000000000000014387
+ *   - https://typekit.com/eulas/00000000000000000001437f
+ *   - https://typekit.com/eulas/000000000000000000014383
+ *   - https://typekit.com/eulas/00000000000000000001437d
  *
  * © 2009-2018 Adobe Systems Incorporated. All Rights Reserved.
  */
